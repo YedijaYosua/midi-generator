@@ -1,0 +1,4 @@
+*.mid
+*.h5
+.ipynb_*
+.DS_Store
